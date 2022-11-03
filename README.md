@@ -6,6 +6,7 @@ This project was intended to check in reviews on Amazon products had a favorable
 
 ## Results
 
-![Alt text](
+The following image shows the clean and sorted  data used for the 
+![Alt text](https://github.com/dntalx/Amazon_Vine_Analysis/blob/main/Resources/Screen%20Shot%202022-11-02%20at%209.59.02%20PM.png)
 
 ## Summary
